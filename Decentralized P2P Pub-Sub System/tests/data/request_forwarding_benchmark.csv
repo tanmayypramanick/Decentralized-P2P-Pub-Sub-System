@@ -1,0 +1,9 @@
+Number of Peers,Average Latency (seconds),Max Throughput (requests/second)
+1,inf,0.00
+2,0.0034,1.96
+3,0.0038,5.76
+4,0.0035,11.14
+5,0.0036,17.88
+6,0.0034,25.78
+7,0.0036,34.22
+8,0.0033,43.32
