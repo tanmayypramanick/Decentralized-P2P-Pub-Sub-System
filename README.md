@@ -105,7 +105,7 @@ To get started, clone the repository and navigate to the desired assignment fold
 
 ### Example
 ```sh
-git clone https://github.com/your_username/Decentralized-P2P-Pub-Sub-System.git
+git clone https://github.com/tanmayypramanick/Decentralized-P2P-Pub-Sub-System.git
 cd Decentralized-P2P-Pub-Sub-System/Basic\ Pub-Sub\ System/
 python IndexingServer.py
 ```
